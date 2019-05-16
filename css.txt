@@ -1,0 +1,10 @@
+css绝对定位：
+	position：absolute
+	top:
+	left:
+注册页面步骤分析
+	1：logo部分
+	2：导航菜单
+	3：注册部分
+	4：footer图片
+	5：一堆超链接

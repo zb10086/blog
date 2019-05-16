@@ -1,0 +1,4 @@
+width 和 height 的定义
+position absolute 和 margin 和 padding的使用
+id name 
+如何从前端传送json数据到后端以及在后端接收
